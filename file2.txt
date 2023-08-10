@@ -1,9 +1,0 @@
-This is line 1
-
-This is line 2
-git sstatus
-
-
-exit
-this is line 1
-tthis is line 2
